@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://doxbinbot.xyz/sitemap.xml
+Sitemap: https://doxbinbot.com/sitemap.xml
